@@ -1,6 +1,7 @@
 # Node-Notes
 #### This note-taking app is a simple node cli application that lets you `add`, `remove`, `read` and `list` all notes you created. 
 <hr>
+
 1. Install all dependencies<br>`npm install`
 
 2. Run app <br>`node app.js <command>`
